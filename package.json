@@ -1,5 +1,5 @@
 {
-  "name": "pokemon-showdown",
+  "name": "@levr/pokemon_showdown",
   "description": "The server for the Pokémon Showdown battle simulator",
   "version": "0.11.7",
   "main": ".sim-dist/index.js",
